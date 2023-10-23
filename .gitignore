@@ -1,0 +1,5 @@
+.venv
+.env
+scratch.txt
+__pycache__
+data.db
